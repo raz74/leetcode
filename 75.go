@@ -1,4 +1,4 @@
-package main
+package leetcode
 
 //75. Sort Colors
 
